@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define custom CSS variables for light and dark modes */
+html {
+  --line-color: #f6f6f7; /* Light mode line color */
+}
+
+html.dark {
+  --line-color: rgba(246, 242, 242, 0.2); /* Dark mode line color */
+}
+
+/* Custom utility class for border color */
+.borderBlack {
+  @apply border border-black/10;
+}
+
+
