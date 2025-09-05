@@ -36,7 +36,7 @@ export default function Intro() {
             {/*dp  */}
             <Image
             // .. when in github 
-               src="/sus (1).png"
+               src="./sus (1).png"
               alt="Abres siddique"
               width="192"
               height="192"
