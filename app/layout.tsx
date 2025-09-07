@@ -45,14 +45,15 @@ export const metadata = {
     canonical: "https://abressiddique.github.io/Abress-AR/",
   },
   metadataBase: new URL("https://abressiddique.github.io/Abress-AR/"),
-  other: {
-    // LinkedIn / social preview
-    "linkedin:card": "summary_large_image",
-    "linkedin:title": "Abres Siddique | Project Manager & Full Stack Developer",
-    "linkedin:description":
-      "CTO of Manal Apparels, PhD in Multi-Agent AI Systems, leading IT projects and delivering scalable web applications.",
-    "linkedin:url": "https://abressiddique.github.io/Abress-AR/",
-  },
+ other: {
+  "linkedin:card": "summary_large_image",
+  "linkedin:title": "Abres Siddique | Project Manager & Full Stack Developer",
+  "linkedin:description": "CTO of Manal Apparels, PhD in Multi-Agent AI Systems, leading IT projects and delivering scalable web applications.",
+  "linkedin:url": "https://www.linkedin.com/in/abressiddique/",
+  "github:url": "https://github.com/abressiddique",
+  "x:url": "https://x.com/AbresSiddique",
+  "youtube:url": "https://www.youtube.com/@abressiddique",
+},
 };
 
 
