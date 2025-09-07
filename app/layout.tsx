@@ -53,6 +53,7 @@ export const metadata = {
   "github:url": "https://github.com/abressiddique",
   "x:url": "https://x.com/AbresSiddique",
   "youtube:url": "https://www.youtube.com/@abressiddique",
+    "leetcode:url": "https://leetcode.com/u/abressiddique/",
 },
 };
 
