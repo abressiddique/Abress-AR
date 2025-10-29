@@ -165,7 +165,7 @@ export const projectsData = [
       "Built an end-to-end e-commerce platform for Abres Store with product listings, authentication, shopping cart, and payment integration, deployed on AWS for high availability.",
     tags: ["Next.js", "Tailwind CSS", "AWS", "Zustand", "TypeScript"],
     imageUrl: abresEcomImage, // Replace with the actual image variable
-    repository: "https://www.abresstore.in/",
+    repository: "https://www.linkedin.com/in/abressiddique//",
   },
   
  
